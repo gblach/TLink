@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SHF-105-01-L-D-TH)(type Legacy)(uri ${KIPRJMOD}/SHF-105-01-L-D-TH.lib)(options "")(descr ""))
+)
